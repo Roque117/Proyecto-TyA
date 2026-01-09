@@ -1,11 +1,11 @@
 # Proyecto-TyA
 
 Integrantes: 
-Roque Josué Aguirre Viveros 
-Luis Fernando Hernández Dimas 
-Rafael Baltazar Bonifacio Erick Álvarez Balderas 
-Jose Angel Nieves Franco 
-Roberto Mauricio Maya Maldonado 
+#Roque Josué Aguirre Viveros
+#Luis Fernando Hernández Dimas
+#Rafael Baltazar Bonifacio Erick Álvarez Balderas
+#Jose Angel Nieves Franco
+#Roberto Mauricio Maya Maldonado
 
 Propuesta 3:
 Sistema de Control y Seguimiento de Rutinas Fitness 
