@@ -1,6 +1,6 @@
 # Proyecto-TyA
 
-Integrantes:
+Integrantes: 
 Roque Josué Aguirre Viveros 
 Luis Fernando Hernández Dimas 
 Rafael Baltazar Bonifacio Erick Álvarez Balderas 
