@@ -1,6 +1,14 @@
 # Proyecto-TyA
 
-Propuesta 3: Sistema de Control y Seguimiento de Rutinas Fitness 
+Integrantes:
+Roque Josué Aguirre Viveros 
+Luis Fernando Hernández Dimas 
+Rafael Baltazar Bonifacio Erick Álvarez Balderas 
+Jose Angel Nieves Franco 
+Roberto Mauricio Maya Maldonado 
+
+Propuesta 3:
+Sistema de Control y Seguimiento de Rutinas Fitness 
 Descripción del proyecto 
 Aplicación web para gestionar rutinas de ejercicio, seguimiento de progreso físico, registro de peso, medidas corporales y planes nutricionales básicos. 
 Factibilidad del proyecto 
