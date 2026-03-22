@@ -20,3 +20,4 @@ Factibilidad operativa:
 Alta. El sistema es intuitivo y orientado a usuarios finales con mínima capacitación. 
 Factibilidad legal: 
 Media-Alta. Debe incluir avisos de responsabilidad y manejo adecuado de datos personales. 
+
