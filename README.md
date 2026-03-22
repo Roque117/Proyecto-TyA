@@ -46,4 +46,4 @@ El sistema integra protocolos de manejo de datos personales y avisos de responsa
 
 ---
 
-> **Nota importante:** El código fuente y los recursos del proyecto se encuentran disponibles para su visualización exclusiva en la rama secundaria llamada **main**.
+> **Nota importante:** El código fuente y los recursos del proyecto se encuentran disponibles para su visualización exclusiva en la rama secundaria llamada **proyect**.
