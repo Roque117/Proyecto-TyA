@@ -10,7 +10,7 @@ Este sistema consiste en una aplicación web integral diseñada para la gestión
 
 ## Equipo de Desarrollo
 
-* [cite_start]**Roque Josué Aguirre Viveros** [cite: 9, 191]
+* **Roque Josué Aguirre Viveros** 
 * **Luis Fernando Hernández Dimas**
 * **Rafael Baltazar Bonifacio**
 * **Erick Álvarez Balderas**
